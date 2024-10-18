@@ -22,9 +22,9 @@
       "original_namespace" : "",
       "original_publisher" : "",
       "custodian_namespace" : "",
-      "sem_ver" : "1.0.0",
+      "sem_ver" : "1.0.1",
       "build_uid" : "",
-      "MD5-CAM-1.0.1" : "472f00e51ebee9a2246ca1263dcbdadf",
+      "MD5-CAM-1.0.1" : "5935f14b7e1674f50a8e6accabcf00ee",
       "PARENT:MD5-CAM-1.0.1" : "eb6d7eeb9c09c0f8e858fcd74b0cf29d"
     },
     "details" : {
@@ -101,14 +101,7 @@
     "conceptCode" : "at0000",
     "termDefinitions" : {
       "en" : { },
-      "de" : {
-        "at0000.1" : {
-          "@type" : "ARCHETYPE_TERM",
-          "code" : "at0000.1",
-          "text" : "Medication list",
-          "description" : "Eine beständige und versionierte Liste von Medikamenten für eine Person."
-        }
-      }
+      "de" : { }
     },
     "termBindings" : { },
     "terminologyExtracts" : { },
