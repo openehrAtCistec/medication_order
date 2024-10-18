@@ -19,7 +19,7 @@
       "original_namespace" : "org.openehr",
       "original_publisher" : "openEHR Foundation",
       "custodian_namespace" : "org.openehr",
-      "MD5-CAM-1.0.1" : "cc0bcd1bd805ba7222af5dbfa68b7ead",
+      "MD5-CAM-1.0.1" : "582f75b2da56b5b213aa67e1b58c279b",
       "PARENT:MD5-CAM-1.0.1" : "F116C050DE9CF44A61E064FEEA0494DE",
       "sem_ver" : "1.0.0",
       "build_uid" : ""
@@ -2440,16 +2440,7 @@
           "@type" : "C_COMPLEX_OBJECT",
           "rmTypeName" : "ELEMENT",
           "nodeId" : "at0178.1",
-          "attributes" : [ {
-            "@type" : "C_ATTRIBUTE",
-            "rmAttributeName" : "value",
-            "children" : [ {
-              "@type" : "C_COMPLEX_OBJECT",
-              "rmTypeName" : "DV_DATE_TIME",
-              "attributes" : [ ],
-              "attributeTuples" : [ ]
-            } ]
-          } ],
+          "attributes" : [ ],
           "attributeTuples" : [ ]
         }, {
           "@type" : "C_COMPLEX_OBJECT",
@@ -6676,9 +6667,17 @@
         }, {
           "@type" : "C_COMPLEX_OBJECT",
           "rmTypeName" : "ELEMENT",
-          "occurrences" : "1..1",
           "nodeId" : "at0178.1",
-          "attributes" : [ ],
+          "attributes" : [ {
+            "@type" : "C_ATTRIBUTE",
+            "rmAttributeName" : "value",
+            "children" : [ {
+              "@type" : "C_COMPLEX_OBJECT",
+              "rmTypeName" : "DV_DATE_TIME",
+              "attributes" : [ ],
+              "attributeTuples" : [ ]
+            } ]
+          } ],
           "attributeTuples" : [ ]
         }, {
           "@type" : "C_COMPLEX_OBJECT",
@@ -12151,9 +12150,17 @@
         }, {
           "@type" : "C_COMPLEX_OBJECT",
           "rmTypeName" : "ELEMENT",
-          "occurrences" : "1..1",
           "nodeId" : "at0178.1",
-          "attributes" : [ ],
+          "attributes" : [ {
+            "@type" : "C_ATTRIBUTE",
+            "rmAttributeName" : "value",
+            "children" : [ {
+              "@type" : "C_COMPLEX_OBJECT",
+              "rmTypeName" : "DV_DATE_TIME",
+              "attributes" : [ ],
+              "attributeTuples" : [ ]
+            } ]
+          } ],
           "attributeTuples" : [ ]
         }, {
           "@type" : "C_COMPLEX_OBJECT",
@@ -27337,9 +27344,17 @@
         }, {
           "@type" : "C_COMPLEX_OBJECT",
           "rmTypeName" : "ELEMENT",
-          "occurrences" : "1..1",
           "nodeId" : "at0178.1",
-          "attributes" : [ ],
+          "attributes" : [ {
+            "@type" : "C_ATTRIBUTE",
+            "rmAttributeName" : "value",
+            "children" : [ {
+              "@type" : "C_COMPLEX_OBJECT",
+              "rmTypeName" : "DV_DATE_TIME",
+              "attributes" : [ ],
+              "attributeTuples" : [ ]
+            } ]
+          } ],
           "attributeTuples" : [ ]
         }, {
           "@type" : "C_COMPLEX_OBJECT",
@@ -31560,9 +31575,17 @@
         }, {
           "@type" : "C_COMPLEX_OBJECT",
           "rmTypeName" : "ELEMENT",
-          "occurrences" : "1..1",
           "nodeId" : "at0178.1",
-          "attributes" : [ ],
+          "attributes" : [ {
+            "@type" : "C_ATTRIBUTE",
+            "rmAttributeName" : "value",
+            "children" : [ {
+              "@type" : "C_COMPLEX_OBJECT",
+              "rmTypeName" : "DV_DATE_TIME",
+              "attributes" : [ ],
+              "attributeTuples" : [ ]
+            } ]
+          } ],
           "attributeTuples" : [ ]
         }, {
           "@type" : "C_COMPLEX_OBJECT",
