@@ -24,7 +24,7 @@
       "custodian_namespace" : "",
       "sem_ver" : "1.0.0",
       "build_uid" : "",
-      "MD5-CAM-1.0.1" : "2dc83c7ddd1598348119329f5da78004",
+      "MD5-CAM-1.0.1" : "32be0e5d54dcbacaf162cda565a3a256",
       "PARENT:MD5-CAM-1.0.1" : "1e16188536debf6d94aea7d7f28fb79a"
     },
     "details" : {
@@ -106,12 +106,6 @@
           "code" : "at0000",
           "text" : "Prescription",
           "description" : "Set of medication orders communicated to pharmacy."
-        },
-        "at0000.1.1" : {
-          "@type" : "ARCHETYPE_TERM",
-          "code" : "at0000.1.1",
-          "text" : "cistec.openehr.prescription.v1",
-          "description" : "Set of medication orders communicated to pharmacy."
         }
       },
       "de" : {
@@ -119,12 +113,6 @@
           "@type" : "ARCHETYPE_TERM",
           "code" : "at0000",
           "text" : "Rezept",
-          "description" : "Satz von Medikationsanordnungen, die an die Apotheke übermittelt werden. "
-        },
-        "at0000.1.1" : {
-          "@type" : "ARCHETYPE_TERM",
-          "code" : "at0000.1.1",
-          "text" : "cistec.openehr.prescription.v1",
           "description" : "Satz von Medikationsanordnungen, die an die Apotheke übermittelt werden. "
         }
       }
